@@ -1,0 +1,2 @@
+- TryHackMe: created
+- Ubuntu: updated & essentials installed
