@@ -21,7 +21,11 @@ https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-mod
 3. Ran network commands:
    - ping - sends ICMP echo requests to a host to check if it's reachable and measures round‑trip time (latency).  
    - traceroute - shows the path packets take from your machine to the destination; lists each hop (router) and latency to that hop. Useful to see number of network hops and where delays happen.  
-   - dig (DNS lookup tool) — queries DNS servers for records (A, AAAA, MX, etc.). Good for seeing which IP(s) a domain resolves to and which DNS server answered.
+   - dig (DNS lookup tool) — queries DNS servers for records (A, AAAA, MX, etc.). Good for seeing which IP(s) a domain resolves to and which DNS server answered.    
 
-- Captured HTTP GET request in Wireshark  
+4. Captured HTTP GET request in Wireshark  
+   - File: `notes/day1-wireshark.pcapng`  
+   - Interface: lo (loopback)
+   - Purpose: Capture a simple HTTP GET request and response to see network traffic.
+     This shows how data flows over TCP/IP even for local traffic.  
 
