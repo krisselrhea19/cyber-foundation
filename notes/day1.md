@@ -15,7 +15,8 @@ https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-mod
    - 'dirb' tool -> To find hidden URLs  
      Syntax - dirb url_of_website
    - SOC - Security Operations Centre
-   - SIEM (Security Information and Event Management) tool - gathers security-related information and events from various sources and presents them in one dashboard  
+   - SIEM (Security Information and Event Management) tool -> gathers security-related information and events from various sources and presents them in one dashboard
+   - Careers include - Security Analyst, Security Engineer, Incident Responser, Digital Forensics Examiner(detective kinda work, sounds interesting), Malware Analyst(requires strong coding skills), Penetration Tester(also called Ethical Hacking), Red Teamer      
      
 
 
