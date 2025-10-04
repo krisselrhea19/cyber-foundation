@@ -26,6 +26,6 @@ https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-mod
 4. Captured HTTP GET request in Wireshark  
    - File: `notes/day1-wireshark.pcapng`  
    - Interface: lo (loopback)
-   - Purpose: Capture a simple HTTP GET request and response to see network traffic.
+   - Purpose: Capture a simple HTTP GET request and response to see network traffic.  
      This shows how data flows over TCP/IP even for local traffic.  
 
