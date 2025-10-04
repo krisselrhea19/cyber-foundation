@@ -11,7 +11,11 @@
    Application — HTTP/SMTP/DNS]  
 https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/
   
-- Started TryHackMe Pre-Security modules  
+2. Started TryHackMe Pre-Security module 1
+   - 'dirb' tool -> To find hidden URLs
+     Syntax - dirb website_url    
+
+
 - Ran network commands: `ping`, `traceroute`, `dig`  
 - Captured HTTP GET request in Wireshark  
 
