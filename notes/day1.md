@@ -16,19 +16,12 @@ https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-mod
      Syntax - dirb url_of_website
    - SOC - Security Operations Centre
    - SIEM (Security Information and Event Management) tool -> gathers security-related information and events from various sources and presents them in one dashboard
-   - Careers include - Security Analyst, Security Engineer, Incident Responser, Digital Forensics Examiner(detective kinda work, sounds interesting), Malware Analyst(requires strong coding skills), Penetration Tester(also called Ethical Hacking), Red Teamer      
-     
+   - Careers include - Security Analyst, Security Engineer, Incident Responser, Digital Forensics Examiner(detective kinda work, sounds interesting), Malware Analyst(requires strong coding skills), Penetration Tester(also called Ethical Hacking), Red Teamer
 
+3. Ran network commands:
+   - ping - sends ICMP echo requests to a host to check if it's reachable and measures round‑trip time (latency).  
+   - traceroute - shows the path packets take from your machine to the destination; lists each hop (router) and latency to that hop. Useful to see number of network hops and where delays happen.  
+   - dig (DNS lookup tool) — queries DNS servers for records (A, AAAA, MX, etc.). Good for seeing which IP(s) a domain resolves to and which DNS server answered.
 
-- Ran network commands: `ping`, `traceroute`, `dig`  
 - Captured HTTP GET request in Wireshark  
 
-## Observations / Outputs
-- ping to google.com: 4 packets, avg ~30 ms  
-- traceroute: ~10 hops  
-- dig google.com: returned multiple IPs  
-- In Wireshark: saw GET / HTTP/1.1, Host, User-Agent headers  
-
-## Next steps
-- Complete remaining Pre-Security modules  
-- Learn `nmap` basics
