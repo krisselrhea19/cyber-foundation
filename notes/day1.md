@@ -13,7 +13,9 @@ https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-mod
   
 2. Started TryHackMe Pre-Security module 1 (Introduction to Cyber Security)  
    - 'dirb' tool -> To find hidden URLs  
-     Syntax - dirb url_of_website  
+     Syntax - dirb url_of_website
+   - SOC - Security Operations Centre
+   - SIEM (Security Information and Event Management) tool - gathers security-related information and events from various sources and presents them in one dashboard  
      
 
 
