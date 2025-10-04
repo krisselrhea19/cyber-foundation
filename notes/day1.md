@@ -1,7 +1,7 @@
 # Day 1 — 2025-10-04
 
 ## Activities
-1. Read OSI/TCP-IP overview
+1. Read OSI/TCP-IP overview-  
    [Physical — cables/wireless, bits on wire  
    Data Link — MAC, switches, frames  
    Network — IP, routing  
