@@ -2,13 +2,13 @@
 
 ## Activities
 1. Read OSI/TCP-IP overview
-  [Physical — cables/wireless, bits on wire ; 
-  Data Link — MAC, switches, frames ; 
-  Network — IP, routing ; 
-  Transport — TCP/UDP, ports ; 
-  Session — sessions/flows ; 
-  Presentation — encoding/encryption ; 
-  Application — HTTP/SMTP/DNS]
+  - [Physical — cables/wireless, bits on wire  
+  - Data Link — MAC, switches, frames 
+  - Network — IP, routing 
+  - Transport — TCP/UDP, ports 
+  - Session — sessions/flows 
+  - Presentation — encoding/encryption 
+  - Application — HTTP/SMTP/DNS]
 https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/
   
 - Started TryHackMe Pre-Security modules  
