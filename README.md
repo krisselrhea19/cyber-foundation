@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cyber-foundation
-=======
->>>>>>> 922ed21 (init repo structure)
+A repo for my cybersecurity learning journey.  
+Contains notes, scripts, weekly breakdowns, etc.
